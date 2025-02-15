@@ -1,0 +1,22 @@
+# Ignore bin and target folders 
+/bin/
+/target/
+
+# Ignore Eclipse settings and metadata
+.classpath
+.project
+.settings/
+
+# Ignore Maven and Gradle output
+/.mvn/
+/build/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore dependency caches
+**/logs/
+**/*.log
+/out/
+/tmp/
